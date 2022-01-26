@@ -1,4 +1,4 @@
-## DESAFIO PROGRAMADOR
+## PROGRAMADOR
 
 Baixe o repositório e instale as dependências do projeto utilizando o comando:
 
@@ -10,7 +10,7 @@ Logo, inicialize o servidor.
 
 - php artisan serve
 
-Utilize o POSTMAN ou qualquer outro API Client para testar a API do desafio.
+Utilize o POSTMAN ou qualquer outro API Client para testar a API.
 
 ENDPOINT
 
